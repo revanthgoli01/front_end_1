@@ -1,0 +1,36 @@
+.card{
+    background-color: #faabff;
+    margin: 1% auto;
+    border: 1px solid #5900ff;
+    width: 30%;
+    padding: 1%;
+    box-shadow: 0px 8px 8px -4px #000;
+    border-radius: 1em;
+}
+
+a{
+    text-decoration: none;
+    color: #800006
+}
+
+.btn{
+    margin-top: 10%;
+    display: block;
+    background: #0000ff;
+    color: #fff;
+    padding: 1%;
+    text-align: center;
+    border-radius: 1em;
+}
+
+@media only screen and (min-width:320px) and (max-width:786px){
+    .card{
+        background-color: #faabff;
+        margin: 1% auto;
+        border: 1px solid #5900ff;
+        width: 90%;
+        padding: 1%;
+        box-shadow: 0px 8px 8px -4px #000;
+        border-radius: 1em;
+    }
+}

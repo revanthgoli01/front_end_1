@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"Revanth",
+        "role":"Fresher",
+        "email":"revanthgoli01@gmail.com",
+        "mobile":"+91 996446390",
+        "education":[
+            {
+                "degree":"SSC",
+                "percentage":9.7
+            },
+            {
+                "degree":"INTER",
+                "percentage":97.9
+            },
+            {
+                "degree":"INTER",
+                "percentage":8.8
+            }
+        ]
+    }
+}
