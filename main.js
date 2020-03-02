@@ -51,7 +51,7 @@ function display_info(info){
 
     var button=document.createElement('a');
     button.textContent='View Profile';
-    button.href='https://in.linkedin.com/in/revanth-goli-708ba9190?trk=people-guest_people_search-card';
+    button.href='https://github.com/revanthgoli01';
     button.classList.add("btn");
     card.append(button);
 }
